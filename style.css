@@ -12,6 +12,16 @@ margin:none;
 	background-size: cover;
 	padding: 100px;
 	text-shadow: 1px 1px 5px grey;
+
+}
+#banner p {
+	color: white;
+
+}
+
+#banner a {
+	color: white;
+
 }
 
 #footer{
